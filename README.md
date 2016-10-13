@@ -1,2 +1,1 @@
-# hhetki-nginx
-Hhetki-nginx server
+# gifr-nginx
