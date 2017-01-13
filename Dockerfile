@@ -1,4 +1,4 @@
-FROM nginx:stable-alpine
+FROM nginx:alpine
 
 # Copy a configuration file from the current directory
 ADD nginx.conf /etc/nginx/
